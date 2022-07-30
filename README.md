@@ -1,7 +1,8 @@
 # Hi 👋 My name is Farshid Rezaei
 ## Full-Stack Web Developer
 
-I have been coding for 6 years and I am very interested in learning. In the last two years, I have collaborated on several successful organizational projects in the field of big data with billions of data. As proficient as I am at Back-End, I am fluent in Front-End, especially the Vue.js framework. I have defensible portfolios in my career. I am always looking for growth and development and I welcome new challenges.
+I have been working as a web software developer for 6 years and I am very interested in learning. In the last 3 years, I collaborated in several successful organizational projects with billions of data, as well as projects in the field of fintech and financial and payment solutions. I have defensible portfolios and valuable experiences in my work records. I am always looking for growth and development and welcome new challenges.
+
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [me@farshidrezaei.ir](mailto:me@farshidrezaei.ir)
 * 🚀  I'm currently working on [Vandar](http://vandar.io)
@@ -24,12 +25,6 @@ src="https://img.shields.io/github/followers/farshidrezaei?logo=github&style=for
 
 <a href="http://www.github.com/farshidrezaei"><img src="https://github-readme-stats.vercel.app/api?username=farshidrezaei&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="farshidrezaei's GitHub stats" /></a>
 
-<a href="http://www.github.com/farshidrezaei"><img src="https://github-readme-streak-stats.herokuapp.com/?user=farshidrezaei&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/farshidrezaei"><img src="https://activity-graph.herokuapp.com/graph?username=farshidrezaei&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/farshidrezaei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshidrezaei&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/farshidrezaei"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
