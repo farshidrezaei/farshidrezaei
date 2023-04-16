@@ -1,7 +1,7 @@
 # Hi 👋 My name is Farshid Rezaei
 ## Full-Stack Web Developer
 
-I have been working as a web software developer for 6 years and I am very interested in learning. In the last 3 years, I collaborated in several successful organizational projects with billions of data, as well as projects in the field of fintech and financial and payment solutions. I have defensible portfolios and valuable experiences in my work records. I am always looking for growth and development and welcome new challenges.
+I have been working as a web software developer for 7 years and I am very interested in learning. In the last 3 years, I collaborated in several successful organizational projects with billions of data, as well as projects in the field of fintech and financial and payment solutions. I have defensible portfolios and valuable experiences in my work records. I am always looking for growth and development and welcome new challenges.
 
 * 🌍  I'm based in Tehran, Iran
 * ✉️  You can contact me at [me@farshidrezaei.ir](mailto:me@farshidrezaei.ir)
