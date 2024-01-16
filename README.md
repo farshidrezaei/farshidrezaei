@@ -21,6 +21,9 @@ As an accomplished Software Engineer with seven years of industry experience, I 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=farshidrezaei&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
+### 🔝 Roadmap.sh
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65a64b3c8240aa21a4a2a6da?variant=dark)](https://roadmap.sh)
+
 ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
